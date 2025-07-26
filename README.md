@@ -64,7 +64,7 @@ This platform is built for:
 
 ## 📌 About the Developer
 
-👨‍💻 Developed by **[Muhammed Irshad](https://github.com/muhamdiirshad)**  
+👨‍💻 Developed by **[Muhamdi Irshad](https://github.com/muhamdiirshad)**  
 💡 Passionate about building useful and elegant web applications.
 
 ---
